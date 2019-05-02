@@ -19,4 +19,4 @@ deploy:
   api_key:
     secure: KEY
   app:
-    master: my-app-staging
+    master: bucket-heroku
