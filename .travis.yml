@@ -16,4 +16,5 @@ script:
   - pytest
 deploy:
   provider: heroku
+  api_key: 6ba74b86-f408-47fc-a7a3-5479ac8ff54d
   on: production
